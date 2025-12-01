@@ -6,7 +6,6 @@
  
 
 <p align="center"> 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b91380a8-337c-418e-9326-096d2c11a6f0/dbkx6qi-1946cedd-a09d-427d-8b92-fbce4efc444f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iOTEzODBhOC0zMzdjLTQxOGUtOTMyNi0wOTZkMmMxMWE2ZjAvZGJreDZxaS0xOTQ2Y2VkZC1hMDlkLTQyN2QtOGI5Mi1mYmNlNGVmYzQ0NGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WCZcYm5NTSW4tss8Uutx-qZK1rZpGTfytNapYWW62SU" alt="(F2U) Puddle"/>
   
   
   <p align="center">
